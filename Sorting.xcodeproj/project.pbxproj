@@ -13,6 +13,7 @@
 		D2C6ECE624BADF3C00A40623 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2C6ECE424BADF3C00A40623 /* Main.storyboard */; };
 		D2C6ECE824BADF3E00A40623 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2C6ECE724BADF3E00A40623 /* Assets.xcassets */; };
 		D2C6ECEB24BADF3E00A40623 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2C6ECE924BADF3E00A40623 /* LaunchScreen.storyboard */; };
+		D2C6ECF324BAE0B400A40623 /* SelectionSortViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C6ECF224BAE0B400A40623 /* SelectionSortViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D2C6ECE724BADF3E00A40623 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2C6ECEA24BADF3E00A40623 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2C6ECEC24BADF3E00A40623 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2C6ECF224BAE0B400A40623 /* SelectionSortViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSortViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D2C6ECE724BADF3E00A40623 /* Assets.xcassets */,
 				D2C6ECE924BADF3E00A40623 /* LaunchScreen.storyboard */,
 				D2C6ECEC24BADF3E00A40623 /* Info.plist */,
+				D2C6ECF224BAE0B400A40623 /* SelectionSortViewController.swift */,
 			);
 			path = Sorting;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				D2C6ECE324BADF3C00A40623 /* ViewController.swift in Sources */,
 				D2C6ECDF24BADF3C00A40623 /* AppDelegate.swift in Sources */,
 				D2C6ECE124BADF3C00A40623 /* SceneDelegate.swift in Sources */,
+				D2C6ECF324BAE0B400A40623 /* SelectionSortViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
